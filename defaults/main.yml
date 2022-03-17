@@ -4,6 +4,7 @@ unattended_upgrade_stable_os:
   - CentOS 8
   - Debian 9
   - Debian 10
+  - Debian 11
   - Fedora 32
   - Fedora 33
   - Ubuntu 16
